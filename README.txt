@@ -15,3 +15,10 @@ To activate .chanset #channel +ip | BlackTools : .set +ip
 To chose a different language .set iplang <RO> / <EN> / <FR> / <ES> / <IT>
 
 To work, put the two tcl's in config from the arhive: json.tcl , http.tcl (if you don't have them instaled)
+
+                       BLaCkShaDoW ProductionS
+      _   _   _   _   _   _   _   _   _   _   _   _   _   _  
+     / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ / \ 
+    ( t | c | l | s | c | r | i | p | t | s | . | n | e | t )
+     \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/ \_/
+                                    #TCL-HELP @ Undernet.org
